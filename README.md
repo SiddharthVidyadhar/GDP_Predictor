@@ -1,0 +1,1 @@
+# This is a program that predicts the GDP of any given country by using past data extracted from the World Bank API. It uses a tool in inferential statistics known as polynomial regression in order to reach the predicted value.
